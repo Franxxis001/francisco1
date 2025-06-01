@@ -65,3 +65,16 @@ position: relative;
 
 }
 
+.degradado {
+    border: 5px;
+border-style: solid;
+background-color: purple;
+height: 100px;
+bottom: 600px;
+position: relative;
+border-color: #ff0000 #1722b3 #0d542f #000000;
+text-align: center;
+background-image: linear-gradient(to right, blue, white);
+width: 300px;
+}
+
